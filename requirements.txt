@@ -1,1 +1,4 @@
-Flask==3.0.3
+firebase-admin
+flask
+flask-cors
+pyTelegramBotAPI
