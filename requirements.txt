@@ -1,4 +1,5 @@
 firebase-admin
 flask
 flask-cors
+telebot
 pyTelegramBotAPI
